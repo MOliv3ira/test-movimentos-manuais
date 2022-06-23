@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="17.20197">
+<testcase classname="Testar a plataforma do Movimentos Manuais." name="Testar funcionalidade de novo lançamento" time="17.20197">
+<system-out><![CDATA[Dado que o usuario esta no sistema movimentosManuais........................passed
+Quando o usuario clicar em novo.............................................passed
+E o usuario preenche o campo "mes" com "06".................................passed
+E o usuario preenche o campo "ano" com "2022"...............................passed
+E o usuario seleciona o campo produto.......................................passed
+E o usuario seleciona o campo cosif.........................................passed
+E o usuario preenche o campo "valor" com "200,00"...........................passed
+E o usuario preenche o campo "observação" com "ESSA MENSAGEM FOI FEITA POR UMA AUTOMAÇÃO".passed
+Entao usuaria clicar em incluir.............................................passed
+]]></system-out>
+</testcase>
+</testsuite>

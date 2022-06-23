@@ -1,0 +1,22 @@
+[INFO ] 2022-06-22 20:06:35.651 [main] Hook - TESTE INICIADO: Testar funcionalidade de novo lançamento
+[INFO ] 2022-06-22 20:06:43.868 [main] Report - Tirando print screen da tela
+[INFO ] 2022-06-22 20:06:44.167 [main] Action - Retornando um elemento web via locator By.id: btnNovo 
+[INFO ] 2022-06-22 20:06:44.935 [main] Report - Tirando print screen da tela
+[INFO ] 2022-06-22 20:06:45.114 [main] Action - Retornando um elemento web via locator By.id: txtMes 
+[INFO ] 2022-06-22 20:06:45.299 [main] Report - Tirando print screen da tela
+[INFO ] 2022-06-22 20:06:45.554 [main] Action - Retornando um elemento web via locator By.id: txtAno 
+[INFO ] 2022-06-22 20:06:45.729 [main] Report - Tirando print screen da tela
+[INFO ] 2022-06-22 20:06:45.916 [main] Action - Retornando um elemento web via locator By.xpath: //*[@name='ddlProduto'] 
+[INFO ] 2022-06-22 20:06:46.058 [main] Action - Retornando um elemento web via locator By.xpath: //*[contains(text(),' Produto 01 ')] 
+[INFO ] 2022-06-22 20:06:46.253 [main] Report - Tirando print screen da tela
+[INFO ] 2022-06-22 20:06:46.658 [main] Action - Retornando um elemento web via locator By.xpath: //*[@name='ddlCosif'] 
+[INFO ] 2022-06-22 20:06:46.797 [main] Action - Retornando um elemento web via locator By.xpath: //*[contains(text(), ' COSIF 07 ')] 
+[INFO ] 2022-06-22 20:06:46.965 [main] Report - Tirando print screen da tela
+[INFO ] 2022-06-22 20:06:47.264 [main] Action - Retornando um elemento web via locator By.id: txtValor 
+[INFO ] 2022-06-22 20:06:47.491 [main] Report - Tirando print screen da tela
+[INFO ] 2022-06-22 20:06:47.725 [main] Action - Retornando um elemento web via locator By.id: txtObservacao 
+[INFO ] 2022-06-22 20:06:48.205 [main] Report - Tirando print screen da tela
+[INFO ] 2022-06-22 20:06:48.332 [main] Action - Retornando um elemento web via locator By.xpath: //*[contains(text(),'Incluir')] 
+[INFO ] 2022-06-22 20:06:48.487 [main] Report - Tirando print screen da tela
+[INFO ] 2022-06-22 20:06:50.203 [main] Hook - TESTE FINALIZADO: Testar funcionalidade de novo lançamento
+[INFO ] 2022-06-22 20:06:50.203 [main] Hook - TESTE STATUS: PASSED
